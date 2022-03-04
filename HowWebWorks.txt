@@ -1,0 +1,9 @@
+1. What is HTTP? Hypertext transfer Protocol
+2. What is a URL? A protocol, hostname, port, resource and sometimes a query combined to find a webpage
+3. What is DNS? Domain Name Service. Usually a hostname that turns in an IP address
+4. What is a query String? End of a url, usually contains extra information such as search bar information. 
+5. What are two HTTP verbs? GET and POST. GET equests w/o changing the server data. POST requests with side effects. 
+6. What is an HTTP request? When you enter an address into your browser, the browser will make a REQUEST to the specified server. Inside the request is the HTTP protocol version of the request, the url, and headers including the hostname, date, language, cookies, etc. 
+7. What is an HTTP response? The server will either send back the HTML requested or interact with internal database servers before sending back the complete response. In the response is the HTTP protocol version, the response status code, and headers including: content type, date/time, cookies, cache information 
+8. What is an HTTP header? 
+9. What are the processes that happen when you type ---URL--? 
